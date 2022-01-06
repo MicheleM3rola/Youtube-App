@@ -2,7 +2,7 @@
 
 <img src="https://res.cloudinary.com/mike88/image/upload/v1641471264/Youtube_Api_Test_rrfaxv.jpg" title="YT test api" alt="YT test api" width="40%"/>
 
-Testing the Youtube Api, with React and a tiny bit of styling with Material UI.
+Testing the Youtube Api, with React (class component) and a tiny bit of styling with Material UI.
 
 
 ## 🥞 Tech Stack
